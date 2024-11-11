@@ -4,6 +4,8 @@
 
 Adidas is a prominent global brand in sports apparel and footwear, operating in a highly competitive market. To maintain its market share and foster growth, the company must continually analyze its sales performance, customer preferences, and the effectiveness of its marketing strategies. This analysis leverages the Adidas dataset to offer actionable insights into sales trends, customer behavior, and marketing performance.
 	In this report, I provide a detailed analysis of Adidas sales data using Excel. This personal project aims to improve my data analysis skills by utilizing Excel’s data manipulation and visualization tools to lay bare important insights into sales  performance, trends, and patterns. Join me as I explore the data to highlight valuable information that can inform strategic decision-making and improve business outcomes for Adidas.
+ 
+![MY INTERACTIVE DASHBOARD](https://github.com/user-attachments/assets/eae016cd-3c74-4775-b4ff-eed6a6ed80cb)
 
 ### Dataset
 
